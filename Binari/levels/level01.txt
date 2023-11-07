@@ -1,0 +1,34 @@
+TILEMAP
+36 28 							-- Size of tile map in tiles
+16 16 							-- Tile size & block size
+images/MapTilesGradient1.1.png 	-- Tilesheet
+4 4 								-- Number of tiles in tilesheet
+                                    
+af                                ea
+oj                                io
+oj                                io
+oj                                io
+oj                                io
+oj                                io
+okaf   eaaaf   a   a   eaaaaf   ealo
+onph         a a a a a          gpmo
+oj                                io
+oj                                io
+oj                                io
+okaf   eaaf   bd   bd   eaaaf   ealo
+onph                            gpmo
+oj                                io
+oj              aaa               io
+oj                                io
+okaf   eaf  ef       ef  aaaa   ealo
+onph          ef   ef           gpmo
+oj             eaaaf              io
+oj                                io
+oj                                io
+okaf   eaaaaaaaaaaaaaaaaaaaaf   ealo
+onph                            gpmo
+oj                                io
+oj                                io
+oj                                io
+okaaaaaaaaaaaaabcccccdaaaaaaaaaaaalo
+

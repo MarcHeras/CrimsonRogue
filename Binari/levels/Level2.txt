@@ -1,0 +1,21 @@
+TILEMAP
+16 16 							-- Size of tile map in tiles
+32 32 							-- Tile size & block size
+images/FinalMap3.png 	-- Tilesheet
+8 8 							-- Number of tiles in tilesheet
+OOOOOOOOOOOJ000I
+OOOOONPPPPbH000I
+OOONPH    Q    I
+OONH      Q    I
+ONH    y  T    I
+OJ        n   EL
+OJ     d      IO
+OKAF   S     mIO
+OOOJ   Q     ELO
+OOOJ   Q     IOO
+OOOJ   Q     IOO
+OOOJ   Q     GPM
+OOOJ   Qdddd   I
+PPPH   eBCDF   G
+1      IOOOJ   1
+AAAAAAALOOOJ1111
